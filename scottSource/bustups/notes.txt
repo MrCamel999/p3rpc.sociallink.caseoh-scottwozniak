@@ -1,0 +1,6 @@
+F00 - annoyed
+F01 - happy?
+F02 - Angry
+F03 - nervous?
+F04 - scared
+F10 - sad
