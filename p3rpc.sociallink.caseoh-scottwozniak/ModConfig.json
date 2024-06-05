@@ -1,0 +1,42 @@
+{
+  "ModId": "p3rpc.sociallink.caseoh-scottwozniak",
+  "ModName": "CaseOh and Scott the Woz Social Links",
+  "ModAuthor": "Mr. Camel999 \u0026  austinleroy",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Combines https://github.com/MrCamel999/p3rpc.sociallink.caseohmoon and https://github.com/MrCamel999/p3r.sociallink.scottwozniak into a single mod, since some BMD files are edited in both mods, making the mods slightly incompatible with one another. ",
+  "ModDll": "",
+  "ModIcon": "Preview.jpg",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p3rpc.sociallink.caseoh-scottwozniak.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubRelease": {
+      "UserName": "MrCamel999",
+      "RepositoryName": "p3rpc.sociallink.caseoh-scottwozniak",
+      "UseReleaseTag": true,
+      "AssetFileName": "Mod.zip"
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "p3rpc.essentials",
+    "Reloaded.Memory.SigScan.ReloadedII",
+    "reloaded.sharedlib.hooks",
+    "reloaded.universal.fileemulationframework",
+    "Unreal.AtlusScript.Reloaded",
+    "Unreal.ObjectsEmitter.Reloaded",
+    "UnrealEssentials",
+    "UTOC.Stream.Emulator"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p3r.exe"
+  ],
+  "ProjectUrl": "https://github.com/MrCamel999/p3rpc.sociallink.caseoh-scottwozniak"
+}
