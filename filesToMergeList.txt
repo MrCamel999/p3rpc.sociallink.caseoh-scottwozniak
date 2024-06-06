@@ -10,7 +10,3 @@ BMD_Scr_Event_Extr_360_010_C.uasset
 BMD_Scr_Event_Main_210_240_B.uasset
 BMD_Event_Main_210_240_B.uasset
 BMD_ItemEvitemHelp.uasset
-DatPlayerLastNameDataAsset.uasset
-DatPlayerNameDataAsset.uasset
-DatRaceDataAsset.uasset
-DatPlayerFirstNameDataAsset.uasset
