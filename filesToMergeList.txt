@@ -1,5 +1,3 @@
-BMD_OBJ_106_101_002.uasset
-BMD_OBJ_TOILET_COMMON.uasset
 BMD_CmmuOutlineHelp.uasset
 BMD_CmmProfileHelp.uasset
 BMD_ActionRecord.uasset
