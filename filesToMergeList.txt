@@ -1,4 +1,2 @@
-BMD_ActionRecord.uasset
 BMD_Scr_Event_Main_210_240_B.uasset
 BMD_Event_Main_210_240_B.uasset
-BMD_ItemEvitemHelp.uasset
