@@ -1,11 +1,8 @@
-DT_FldNpcName.uasset
 BMD_OBJ_106_101_002.uasset
 BMD_OBJ_TOILET_COMMON.uasset
 BMD_CmmuOutlineHelp.uasset
 BMD_CmmProfileHelp.uasset
-DT_CommunityFormat_Name.uasset
 BMD_ActionRecord.uasset
-DatItemEvitemNameDataAsset.uasset
 BMD_Scr_Event_Extr_360_010_C.uasset
 BMD_Scr_Event_Main_210_240_B.uasset
 BMD_Event_Main_210_240_B.uasset
