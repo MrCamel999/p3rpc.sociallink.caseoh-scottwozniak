@@ -1,7 +1,7 @@
 {
   "ModId": "p3rpc.sociallink.caseoh-scottwozniak",
   "ModName": "CaseOh and Scott the Woz Social Links",
-  "ModAuthor": "Mr. Camel999 \u0026  austinleroy",
+  "ModAuthor": "Mr. Camel999, austinleroy, \u0026 A Mudkip",
   "ModVersion": "1.0.0",
   "ModDescription": "Combines https://github.com/MrCamel999/p3rpc.sociallink.caseohmoon and https://github.com/MrCamel999/p3r.sociallink.scottwozniak into a single mod, since some BMD files are edited in both mods, making the mods slightly incompatible with one another. ",
   "ModDll": "",
